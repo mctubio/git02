@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(236, 230, 230);
+}
+
+
+h1{
+    font-family:cursive; 
+    font-size: 50px ; 
+    text-align: center; 
+    margin-bottom:10px;
+}
+
+h2{
+    color: #343A40;
+    font-family:cursive; 
+    font-size: 30px ; 
+    text-align: center; 
+    margin-top:10px ;
+}
+
+h3{
+   color: #495057 ;
+   font-size: 20px;
+   font-family:cursive;
+}
+
+p{
+  color: #495057 ;
+  text-align: justify; 
+  font-size: 15px;
+  font-family:cursive;
+}
+
+ul{
+    color: #495057;
+    font-size: 15px;
+    font-family:cursive;
+    list-style-type: none;
+}
+
+hr{
+    color: #343A40;
+}
+
+label{
+    color: #495057 ;
+    text-align: justify; 
+    font-size: 20px;
+    font-family:cursive;
+}
+
+input{
+    color: #495057 ;
+    text-align: justify; 
+    font-size: 20px;
+    font-family:cursive; 
+}
+
+img{
+    display: block;
+    margin: 0px auto;
+}
